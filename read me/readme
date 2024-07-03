@@ -1,0 +1,21 @@
+Dependencies
+	1)junit
+	2)selenium
+	3)webdriver manager
+	4)testng
+	5)apache.poi
+	6)extentreports
+	7)log4j
+	8)freemarker
+	
+Website = http://automationpractice.com/index.php
+
+
+Steps
+	website homepage > signin page > search page > Sort > add to cart > address > shipping > payment> close
+	
+data
+	1)Email
+	2)Password
+	3)product
+	

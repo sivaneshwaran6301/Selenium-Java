@@ -1,0 +1,8 @@
+=2022-11-17 18:50:12 INFO  Logging :14 - start
+=2022-11-17 18:50:12 WARN  Logging :16 - warning
+=2022-11-17 18:50:12 ERROR Logging :17 - error
+=2022-11-17 18:50:12 FATAL Logging :18 - fatal
+=2022-11-17 18:50:49 INFO  Logging :14 - start
+=2022-11-17 18:50:49 WARN  Logging :16 - warning
+=2022-11-17 18:50:49 ERROR Logging :17 - error
+=2022-11-17 18:50:49 FATAL Logging :18 - fatal

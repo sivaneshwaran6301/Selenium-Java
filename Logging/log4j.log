@@ -1,0 +1,4 @@
+=2022-11-18 10:24:49 INFO  Logging :14 - start
+=2022-11-18 10:24:49 WARN  Logging :16 - warning
+=2022-11-18 10:24:49 ERROR Logging :17 - error
+=2022-11-18 10:24:49 FATAL Logging :18 - fatal
